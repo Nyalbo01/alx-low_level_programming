@@ -7,7 +7,7 @@
  * return: Always 0
  *
 */
-int (void)
+int main(void)
 {
 	int n;
 	int num;
